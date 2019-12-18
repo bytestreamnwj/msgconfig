@@ -6,4 +6,4 @@ spring:
   application:
     name: msg-config
 red:
-  remark: 这是dev的remark
+  remark: 这是dev的remark==========
