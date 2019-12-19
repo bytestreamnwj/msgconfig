@@ -6,4 +6,4 @@ spring:
   application:
     name: msg-config
 red:
-  remark: {cipher}e50835c40df8bfd027eb377628e2723623f6af2f991cb40c23d1dbdd40662df07a2b729886f0fbf208d635825644d84b
+  remark: '{cipher}e50835c40df8bfd027eb377628e2723623f6af2f991cb40c23d1dbdd40662df07a2b729886f0fbf208d635825644d84b'
